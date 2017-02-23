@@ -10,6 +10,12 @@ namespace ConsoleApplication22
     {
         static void Main(string[] args)
         {
+            C c = new C();
+
+            c.s6();
+            Console.ReadKey();
+
+          
         }
     }
 }
